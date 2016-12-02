@@ -1,0 +1,3 @@
+[submodule "v3-py"]
+	path = v3-py
+	url = https://github.com/peeyush-tm/v3-py
