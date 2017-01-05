@@ -1,7 +1,3 @@
-[submodule "v3-py"]
-        path = v3-py
-        url = https://github.com/peeyush-tm/v3-py
-
 [submodule "v3-api"]
         path = v3-api
         url = https://github.com/peeyush-tm/v3-api
@@ -9,26 +5,6 @@
 [submodule "v3-docs"]
         path = v3-docs
         url = https://github.com/peeyush-tm/v3-docs
-
-[submodule "v3-android"]
-        path = v3-android
-        url = https://github.com/peeyush-tm/v3-android
-
-[submodule "v3-hybrid"]
-        path = v3-hybrid
-        url = https://github.com/peeyush-tm/v3-hybrid
-
-[submodule "v3-ios"]
-        path = v3-ios
-        url = https://github.com/peeyush-tm/v3-ios
-
-[submodule "v3-java"]
-        path = v3-java
-        url = https://github.com/peeyush-tm/v3-java
-
-[submodule "v3-js"]
-        path = v3-js
-        url = https://github.com/peeyush-tm/v3-js
 
 [submodule "v3-rnd"]
         path = v3-rnd
