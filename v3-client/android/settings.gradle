@@ -1,0 +1,3 @@
+rootProject.name = 'veris_client'
+
+include ':app'
