@@ -10,3 +10,6 @@
         path = v3-rnd
         url = https://github.com/peeyush-tm/v3-rnd
 
+[submodule "v3-client"]
+        path = v3-client
+        url = https://github.com/peeyush-tm/v3-client
