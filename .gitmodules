@@ -13,3 +13,12 @@
 [submodule "v3-client"]
 	path = v3-client
 	url = https://github.com/peeyush-tm/v3-client.git
+[submodule "v3-admin"]
+	path = v3-admin
+	url = https://github.com/peeyush-tm/v3-admin
+[submodule "v3-app"]
+	path = v3-app
+	url = https://github.com/peeyush-tm/v3-app
+[submodule "v3-core"]
+	path = v3-core
+	url = https://github.com/peeyush-tm/v3-core
